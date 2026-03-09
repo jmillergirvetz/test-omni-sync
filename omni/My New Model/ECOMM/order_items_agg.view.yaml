@@ -14,7 +14,7 @@ dimensions:
   total_sale_price:
     sql: '"TOTAL_SALE_PRICE"'
 
-  count:
+  count_rows:
     sql: '"COUNT"'
 
 measures:
